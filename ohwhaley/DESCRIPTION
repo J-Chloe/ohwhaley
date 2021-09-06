@@ -6,7 +6,7 @@ Authors@R:
            family = "Jones",
            role = c("aut", "cre"),
            email = "first.last@example.com")
-Description: Prints a whale to the console and delivering a feel good message.
+Description: Prints a whale to the console and delivering a feel good message. :). 
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
